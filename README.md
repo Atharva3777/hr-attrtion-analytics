@@ -2,7 +2,7 @@
 
 A MySQL and Power BI project where I dig into IBM's HR attrition data to see who leaves, where they work, and what goes with leaving. The dashboard covers 1,470 employees, of whom 237 left (16.1%), representing about $14M in annual salary.
 
-![HR Attrition Dashboard](screenshots/dashboard.png)
+![HR Attrition Dashboard](screenshot/dashboard.png)
 
 ## What I wanted to find out
 
