@@ -2,7 +2,7 @@
 
 Analysed attrition for 1,470 employees to find who leaves, where, and what goes with leaving, then built a one-page Power BI dashboard so HR can target retention. **237 employees left (16.1%).** Overtime, junior status and low pay stand out most.
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshot/dashboard.png)
 
 ## Business problem
 
