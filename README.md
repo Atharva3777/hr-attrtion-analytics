@@ -134,4 +134,4 @@ hr-attrition-project/
 
 ## Author
 
-[Your name] | [LinkedIn] | [Email]
+Atharva Jagtap | atharvajagtap3777@gmail.com
